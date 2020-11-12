@@ -1,4 +1,4 @@
 # ReactJs-Project
 
 
-Personal Project conducted by my self
+Personal React Project conducted by my self
